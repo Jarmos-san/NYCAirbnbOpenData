@@ -14,4 +14,4 @@ Although, the dataset was picked up from [Kaggle Datasets](https://www.kaggle.co
 
 ## License
 
-Feel free to download the Notebook and make changes to it as deemed necessary.
+Feel free to download the Notebook and make changes to it as deemed necessary. For more information please refer to the [LICENSE](https://github.com/Jarmos-san/NYCAirbnbOpenData/blob/master/LICENSE) file.
